@@ -1,6 +1,6 @@
 #dtg-buttons-pass-wrapper {
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	width: 45rem;
 }
 
@@ -9,11 +9,11 @@
 	font-weight: bold;
 	text-align: center;
 	font-size: 1.9rem;
-	width: 12rem;
+	width: 13rem;
 	color: rgb(246 245 232);
 	height: min-content;
 	background: var(--neon-lightoff-color);
-	padding: 0.5rem;
+	padding: .8rem;
 	border-radius: 50px;
 }
 

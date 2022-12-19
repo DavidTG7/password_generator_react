@@ -1,14 +1,14 @@
 #dtg-copywrapper {
-	position: relative;
-	width: 60px;
-	height: 60px;
+	/* position: relative; */
+	/* width: 50px;
+	height: 60px; */
 	background: transparent;
 }
 
 #dtg-innerbox {
-	position: absolute;
+	/* position: absolute; */
 	box-sizing: border-box;
-	background: #170f1e;
+	background: transparent;
 	color: white;
 	font-size: 10px;
 	width: 35px;
@@ -16,8 +16,8 @@
 	border: solid 6px rgb(0 115 255);
 	box-shadow: -3px -3px rgb(23 15 30), -10px -10px rgb(0 115 255);
 	border-radius: 7px;
-	top: 10px;
-	left: 12px;
+	/* top: 10px;
+	left: 12px; */
 }
 
 #dtg-innerbox:hover {
