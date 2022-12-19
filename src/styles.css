@@ -85,6 +85,7 @@
 	margin-top: 2rem;
 	font-size: 12rem;
 	height: fit-content;
+	font-weight: 400;
 	color: var(--neon-lightoff-color);
 	animation: dtg-titlelight ease 20s;
 	animation-iteration-count: infinite;
@@ -103,8 +104,8 @@
 
 #dtg-copybutton {
 	position: absolute;
-	right: 5px;
-	top: 60px;
+	right: .7rem;
+	top: 5.5rem;
 	background: transparent;
 }
 
@@ -291,7 +292,7 @@
 	justify-content: center;
 	align-items: center;
 	text-indent: -40px;
-	width: 52rem;
+	width: 60rem;
 	height: 7rem;
 	border-radius: 20px;
 	text-align: center;
