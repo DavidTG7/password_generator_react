@@ -53,8 +53,6 @@ export const App = () => {
     }, 5000);
   };
 
-  // let lightIndicator = ''
-
   return (
     <div id="dtg-mainwrapper">
       {noneButton ? (
